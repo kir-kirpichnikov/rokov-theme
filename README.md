@@ -20,4 +20,4 @@ I recommend using [JetBrains Mono](https://www.jetbrains.com/ru-ru/lp/mono/) Rea
 
 ## Issues & Suggestions
 
-For issues or suggestions, use GitHub issues.
+For issues or suggestions, use [GitHub issues](https://github.com/kir-kirpichnikov/rokov-theme/issues).
