@@ -2,7 +2,7 @@
   "name": "rokov-theme",
   "displayName": "Rokov Theme",
   "description": "My first theme for Visual Studio Code. Dark and high contrast theme.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "icon": "logo.png",
   "publisher": "kir-kirpichnikov",
   "license": "MIT",
