@@ -1,4 +1,4 @@
-![rokov theme](https://github.com/kir-kirpichnikov/rokov-theme/blob/master/cover.jpg)
+<img src="https://github.com/kir-kirpichnikov/rokov-theme/blob/master/cover.png" alt="logo" width="200">
 
 # Rokov Theme
 
