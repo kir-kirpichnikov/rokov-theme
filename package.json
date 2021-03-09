@@ -4,7 +4,7 @@
   "description": "My first theme for Visual Studio Code. Dark and high contrast theme.",
   "version": "0.0.1",
   "icon": "logo.png",
-  "publisher": "Kirill Kirpichnikov",
+  "publisher": "kir-kirpichnikov",
   "license": "MIT",
   "preview": true,
   "galleryBanner": {
