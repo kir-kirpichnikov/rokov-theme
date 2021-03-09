@@ -32,7 +32,7 @@
       {
         "label": "Rokov Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Rokov-color-theme.json"
+        "path": "./themes/rokov-color-theme.json"
       }
     ]
   },
@@ -43,7 +43,8 @@
   "keywords": [
     "VSCode",
     "Themes",
-    "darktheme"
+    "darktheme",
+    "color"
   ],
   "extensionKind": [
     "ui",
