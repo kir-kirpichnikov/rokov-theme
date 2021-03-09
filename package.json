@@ -24,11 +24,7 @@
     "url": "https://github.com/kir-kirpichnikov"
   },
   "engines": {
-    "node": ">=14.16.0",
     "vscode": ">=0.9.0-pre.1"
-  },
-  "scripts": {
-    "vscode:prepublish": "tsc"
   },
   "contributes": {
     "themes": [
