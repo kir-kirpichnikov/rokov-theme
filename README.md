@@ -1,3 +1,5 @@
+![alt text](https://github.com/kir-kirpichnikov/rokov-theme/blob/master/logo.png)
+
 # Rokov Theme
 
 This is my first theme for Visual Studio Code. Dark and high contrast theme.
